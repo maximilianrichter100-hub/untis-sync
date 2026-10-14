@@ -1,0 +1,1909 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HS Albstadt DPM_1 AutoSync//DE
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261015T113000
+DTEND:20261015T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261013T173000
+DTEND:20261013T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261013T094500
+DTEND:20261013T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261014T140000
+DTEND:20261014T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261014T154500
+DTEND:20261014T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261012T140000
+DTEND:20261012T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261013T140000
+DTEND:20261013T153000
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261013T154500
+DTEND:20261013T171500
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AUSFALL] WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261014T173000
+DTEND:20261014T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261012T173000
+DTEND:20261012T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261012T154500
+DTEND:20261012T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261012T094500
+DTEND:20261012T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261012T113000
+DTEND:20261012T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261014T113000
+DTEND:20261014T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261017T080000
+DTEND:20261017T093000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261017T094500
+DTEND:20261017T111500
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261017T113000
+DTEND:20261017T130000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261012T080000
+DTEND:20261012T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261022T113000
+DTEND:20261022T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261020T173000
+DTEND:20261020T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261020T094500
+DTEND:20261020T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261021T140000
+DTEND:20261021T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261021T154500
+DTEND:20261021T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AUSFALL] WPM-M: Innovation Management (online)
+DTSTART:20261019T140000
+DTEND:20261019T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things
+DTSTART:20261021T173000
+DTEND:20261021T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: \n
+ Dozent: Kühfuß-Behrend\nStatus: Vorlesung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261023T154500
+DTEND:20261023T171500
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261023T173000
+DTEND:20261023T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261019T173000
+DTEND:20261019T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261019T154500
+DTEND:20261019T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261019T094500
+DTEND:20261019T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261019T113000
+DTEND:20261019T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261021T113000
+DTEND:20261021T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261024T080000
+DTEND:20261024T093000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261024T094500
+DTEND:20261024T111500
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261024T113000
+DTEND:20261024T130000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261019T080000
+DTEND:20261019T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261029T113000
+DTEND:20261029T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AUSFALL] Application Systems-ERP - DPM (online)
+DTSTART:20261027T173000
+DTEND:20261027T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261027T094500
+DTEND:20261027T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261028T140000
+DTEND:20261028T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261028T154500
+DTEND:20261028T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AUSFALL] WPM-M: Innovation Management (online)
+DTSTART:20261026T140000
+DTEND:20261026T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261028T094500
+DTEND:20261028T111500
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261029T094500
+DTEND:20261029T111500
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261027T140000
+DTEND:20261027T153000
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261027T154500
+DTEND:20261027T171500
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[AUSFALL] WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261028T173000
+DTEND:20261028T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261026T173000
+DTEND:20261026T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261026T154500
+DTEND:20261026T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261026T094500
+DTEND:20261026T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261026T113000
+DTEND:20261026T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261028T113000
+DTEND:20261028T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261026T080000
+DTEND:20261026T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning (201-006\, 201-018
+ \, 201-017\, 201-014\, 201-019\, 201-021\, 201-022)
+DTSTART:20261030T080000
+DTEND:20261030T093000
+DESCRIPTION:Fach: Pflichtpraktikum in Präsenz: Machine Learning\nRaum: 20
+ 1-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-022\nDozent:
+  Sommer\nStatus: Vorlesung
+LOCATION:201-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning (201-006\, 201-018
+ \, 201-017\, 201-014\, 201-019\, 201-021\, 201-022)
+DTSTART:20261030T094500
+DTEND:20261030T111500
+DESCRIPTION:Fach: Pflichtpraktikum in Präsenz: Machine Learning\nRaum: 20
+ 1-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-022\nDozent:
+  Sommer\nStatus: Vorlesung
+LOCATION:201-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning (201-006\, 201-018
+ \, 201-017\, 201-014\, 201-019\, 201-021\, 201-022)
+DTSTART:20261030T113000
+DTEND:20261030T130000
+DESCRIPTION:Fach: Pflichtpraktikum in Präsenz: Machine Learning\nRaum: 20
+ 1-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-022\nDozent:
+  Sommer\nStatus: Vorlesung
+LOCATION:201-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning (201-006\, 201-018
+ \, 201-017\, 201-014\, 201-019\, 201-021\, 201-022)
+DTSTART:20261030T140000
+DTEND:20261030T153000
+DESCRIPTION:Fach: Pflichtpraktikum in Präsenz: Machine Learning\nRaum: 20
+ 1-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-022\nDozent:
+  Sommer\nStatus: Vorlesung
+LOCATION:201-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pflichtpraktikum in Präsenz: Machine Learning (201-006\, 201-018
+ \, 201-017\, 201-014\, 201-019\, 201-021\, 201-022)
+DTSTART:20261030T154500
+DTEND:20261030T171500
+DESCRIPTION:Fach: Pflichtpraktikum in Präsenz: Machine Learning\nRaum: 20
+ 1-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-022\nDozent:
+  Sommer\nStatus: Vorlesung
+LOCATION:201-006\, 201-018\, 201-017\, 201-014\, 201-019\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261106T080000
+DTEND:20261106T093000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261106T094500
+DTEND:20261106T111500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261106T113000
+DTEND:20261106T130000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261106T140000
+DTEND:20261106T153000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261106T154500
+DTEND:20261106T171500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261107T080000
+DTEND:20261107T093000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261107T094500
+DTEND:20261107T111500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261107T113000
+DTEND:20261107T130000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261107T140000
+DTEND:20261107T153000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261107T154500
+DTEND:20261107T171500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261105T113000
+DTEND:20261105T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261105T140000
+DTEND:20261105T153000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261105T154500
+DTEND:20261105T171500
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261105T173000
+DTEND:20261105T190000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261103T173000
+DTEND:20261103T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261103T094500
+DTEND:20261103T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261104T140000
+DTEND:20261104T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261104T154500
+DTEND:20261104T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261102T140000
+DTEND:20261102T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261104T173000
+DTEND:20261104T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261102T173000
+DTEND:20261102T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261102T154500
+DTEND:20261102T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261102T094500
+DTEND:20261102T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261102T113000
+DTEND:20261102T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261104T113000
+DTEND:20261104T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261102T080000
+DTEND:20261102T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303\, online)
+DTSTART:20261105T080000
+DTEND:20261105T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \, online\nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303\, online)
+DTSTART:20261105T094500
+DTEND:20261105T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \, online\nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261112T113000
+DTEND:20261112T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261110T173000
+DTEND:20261110T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261110T094500
+DTEND:20261110T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261111T140000
+DTEND:20261111T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261111T154500
+DTEND:20261111T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261109T140000
+DTEND:20261109T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261110T140000
+DTEND:20261110T153000
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261110T154500
+DTEND:20261110T171500
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261111T173000
+DTEND:20261111T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261109T173000
+DTEND:20261109T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261109T154500
+DTEND:20261109T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261109T094500
+DTEND:20261109T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261109T113000
+DTEND:20261109T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261111T113000
+DTEND:20261111T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261114T080000
+DTEND:20261114T093000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261114T094500
+DTEND:20261114T111500
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261114T113000
+DTEND:20261114T130000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261109T080000
+DTEND:20261109T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261112T080000
+DTEND:20261112T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261112T094500
+DTEND:20261112T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261119T113000
+DTEND:20261119T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261119T140000
+DTEND:20261119T153000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261119T154500
+DTEND:20261119T171500
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261119T173000
+DTEND:20261119T190000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261117T173000
+DTEND:20261117T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261117T094500
+DTEND:20261117T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261118T140000
+DTEND:20261118T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261118T154500
+DTEND:20261118T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261116T140000
+DTEND:20261116T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things
+DTSTART:20261120T140000
+DTEND:20261120T153000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: \n
+ Dozent: Kühfuß-Behrend\nStatus: Vorlesung
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261120T154500
+DTEND:20261120T171500
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261120T173000
+DTEND:20261120T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261116T173000
+DTEND:20261116T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261116T154500
+DTEND:20261116T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261116T094500
+DTEND:20261116T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261116T113000
+DTEND:20261116T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261118T113000
+DTEND:20261118T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261121T080000
+DTEND:20261121T093000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261121T094500
+DTEND:20261121T111500
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261121T113000
+DTEND:20261121T130000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261116T080000
+DTEND:20261116T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261119T080000
+DTEND:20261119T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261119T094500
+DTEND:20261119T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261126T113000
+DTEND:20261126T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261124T173000
+DTEND:20261124T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261124T094500
+DTEND:20261124T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261125T140000
+DTEND:20261125T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261125T154500
+DTEND:20261125T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261123T140000
+DTEND:20261123T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261124T140000
+DTEND:20261124T153000
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261124T154500
+DTEND:20261124T171500
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261127T140000
+DTEND:20261127T153000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261127T154500
+DTEND:20261127T171500
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261127T173000
+DTEND:20261127T190000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: (I)Iot - Industrial Internet of Things (online)
+DTSTART:20261125T173000
+DTEND:20261125T190000
+DESCRIPTION:Fach: WPF-DE: (I)Iot - Industrial Internet of Things\nRaum: on
+ line\nDozent: Kühfuß-Behrend\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261123T173000
+DTEND:20261123T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261123T154500
+DTEND:20261123T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261123T094500
+DTEND:20261123T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261123T113000
+DTEND:20261123T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261125T113000
+DTEND:20261125T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261128T080000
+DTEND:20261128T093000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261128T094500
+DTEND:20261128T111500
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261128T113000
+DTEND:20261128T130000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261123T080000
+DTEND:20261123T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261126T080000
+DTEND:20261126T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261126T094500
+DTEND:20261126T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261204T080000
+DTEND:20261204T093000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261204T094500
+DTEND:20261204T111500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261204T113000
+DTEND:20261204T130000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261204T140000
+DTEND:20261204T153000
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Blockchain - Technologie und Anwendungen (online)
+DTSTART:20261204T154500
+DTEND:20261204T171500
+DESCRIPTION:Fach: WPM-M: Blockchain - Technologie und Anwendungen\nRaum: o
+ nline\nDozent: Mauk\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261203T113000
+DTEND:20261203T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261201T173000
+DTEND:20261201T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261201T094500
+DTEND:20261201T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261202T140000
+DTEND:20261202T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261202T154500
+DTEND:20261202T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261130T140000
+DTEND:20261130T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261130T173000
+DTEND:20261130T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261130T154500
+DTEND:20261130T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261130T094500
+DTEND:20261130T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261130T113000
+DTEND:20261130T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261202T113000
+DTEND:20261202T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261205T080000
+DTEND:20261205T093000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261205T094500
+DTEND:20261205T111500
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM M: Produktionscontrolling - PowerBI (online)
+DTSTART:20261205T113000
+DTEND:20261205T130000
+DESCRIPTION:Fach: WPM M: Produktionscontrolling - PowerBI\nRaum: online\nD
+ ozent: Bambach\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261130T080000
+DTEND:20261130T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261203T080000
+DTEND:20261203T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261203T094500
+DTEND:20261203T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261210T113000
+DTEND:20261210T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261210T140000
+DTEND:20261210T153000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261210T154500
+DTEND:20261210T171500
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Anlaufmanagement in der Produktion (online)
+DTSTART:20261210T173000
+DTEND:20261210T190000
+DESCRIPTION:Fach: WPM-M: Anlaufmanagement in der Produktion\nRaum: online
+ \nDozent: Reck\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261208T173000
+DTEND:20261208T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261208T094500
+DTEND:20261208T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261209T140000
+DTEND:20261209T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261209T154500
+DTEND:20261209T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261207T140000
+DTEND:20261207T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261208T140000
+DTEND:20261208T153000
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Fertigungssimulation (205-326)
+DTSTART:20261208T154500
+DTEND:20261208T171500
+DESCRIPTION:Fach: Automation&Simulation: Teil Fertigungssimulation\nRaum: 
+ 205-326\nDozent: Kliem\nStatus: Vorlesung
+LOCATION:205-326
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261211T140000
+DTEND:20261211T153000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261211T154500
+DTEND:20261211T171500
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261211T173000
+DTEND:20261211T190000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261207T173000
+DTEND:20261207T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261207T154500
+DTEND:20261207T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261207T094500
+DTEND:20261207T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261207T113000
+DTEND:20261207T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261209T113000
+DTEND:20261209T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261212T080000
+DTEND:20261212T093000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261212T094500
+DTEND:20261212T111500
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Supply Chain Management (online)
+DTSTART:20261212T113000
+DTEND:20261212T130000
+DESCRIPTION:Fach: WPM-DE: Supply Chain Management\nRaum: online\nDozent: T
+ as\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261207T080000
+DTEND:20261207T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Automation&Simulation: Teil Automation (201-017\, 201-014\, 201-01
+ 9\, 201-021\, 201-022)
+DTSTART:20261217T113000
+DTEND:20261217T130000
+DESCRIPTION:Fach: Automation&Simulation: Teil Automation\nRaum: 201-017\, 
+ 201-014\, 201-019\, 201-021\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014\, 201-019\, 201-021\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261215T173000
+DTEND:20261215T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261215T094500
+DTEND:20261215T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261216T140000
+DTEND:20261216T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261216T154500
+DTEND:20261216T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261214T140000
+DTEND:20261214T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261218T140000
+DTEND:20261218T153000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261218T154500
+DTEND:20261218T171500
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261218T173000
+DTEND:20261218T190000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261214T173000
+DTEND:20261214T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261214T154500
+DTEND:20261214T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261214T094500
+DTEND:20261214T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261214T113000
+DTEND:20261214T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261216T113000
+DTEND:20261216T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261214T080000
+DTEND:20261214T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261217T080000
+DTEND:20261217T093000
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Recht in der Digitalen Arbeitswelt (207-303)
+DTSTART:20261217T094500
+DTEND:20261217T111500
+DESCRIPTION:Fach: WPM-M: Recht in der Digitalen Arbeitswelt\nRaum: 207-303
+ \nDozent: Widmann\nStatus: Vorlesung
+LOCATION:207-303
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Application Systems-ERP - DPM (online)
+DTSTART:20261222T173000
+DTEND:20261222T190000
+DESCRIPTION:Fach: Application Systems-ERP - DPM\nRaum: online\nDozent: Nis
+ sen\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-Data Engineering: Python Programming - Fundamentals (DPM) (201
+ -017\, online)
+DTSTART:20261222T094500
+DTEND:20261222T111500
+DESCRIPTION:Fach: WPM-Data Engineering: Python Programming - Fundamentals 
+ (DPM)\nRaum: 201-017\, online\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261223T140000
+DTEND:20261223T153000
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Data Science - DPM (209-111\, 201-017\, 201-014\, 201-019\, 209-11
+ 2\, 201-022)
+DTSTART:20261223T154500
+DTEND:20261223T171500
+DESCRIPTION:Fach: Data Science - DPM\nRaum: 209-111\, 201-017\, 201-014\, 
+ 201-019\, 209-112\, 201-022\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-022
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Innovation Management (online)
+DTSTART:20261221T140000
+DTEND:20261221T153000
+DESCRIPTION:Fach: WPM-M: Innovation Management\nRaum: online\nDozent: Carr
+ uthers\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261222T140000
+DTEND:20261222T153000
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Cybersecurity mit Fokus auf OT-Security (online)
+DTSTART:20261222T154500
+DTEND:20261222T171500
+DESCRIPTION:Fach: WPM-DE: Cybersecurity mit Fokus auf OT-Security\nRaum: o
+ nline\nDozent: Raichle\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Machine Learning - Projekt (DPM) (209-111\, 201-017\, 201-014\, 20
+ 1-019\, 209-112\, 201-021\, 201-022)
+DTSTART:20261221T173000
+DTEND:20261221T190000
+DESCRIPTION:Fach: Machine Learning - Projekt (DPM)\nRaum: 209-111\, 201-01
+ 7\, 201-014\, 201-019\, 209-112\, 201-021\, 201-022\nDozent: Sommer\nStatu
+ s: Vorlesung
+LOCATION:209-111\, 201-017\, 201-014\, 201-019\, 209-112\, 201-021\, 201-0
+ 22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-DE: Python Programming-Advanced - DEC (online)
+DTSTART:20261221T154500
+DTEND:20261221T171500
+DESCRIPTION:Fach: WPM-DE: Python Programming-Advanced - DEC\nRaum: online
+ \nDozent: Seidler\nStatus: Vorlesung
+LOCATION:online
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261221T094500
+DTEND:20261221T111500
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF-DE: Artificial Intelligence - Fundamentals (201-017)
+DTSTART:20261221T113000
+DTEND:20261221T130000
+DESCRIPTION:Fach: WPF-DE: Artificial Intelligence - Fundamentals\nRaum: 20
+ 1-017\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPF Applied Scientific Research (DPM+IAI) (201-017\, 201-014)
+DTSTART:20261223T113000
+DTEND:20261223T130000
+DESCRIPTION:Fach: WPF Applied Scientific Research (DPM+IAI)\nRaum: 201-017
+ \, 201-014\nDozent: Sommer\nStatus: Vorlesung
+LOCATION:201-017\, 201-014
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WPM-M: Smart Factory (207-302\, online)
+DTSTART:20261221T080000
+DTEND:20261221T093000
+DESCRIPTION:Fach: WPM-M: Smart Factory\nRaum: 207-302\, online\nDozent: We
+ hle\nStatus: Vorlesung
+LOCATION:207-302\, online
+END:VEVENT
+END:VCALENDAR
