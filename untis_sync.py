@@ -17,9 +17,8 @@ session.headers.update({
 
 def get_class_id():
   init_url = f"{BASE_URL}/api/public/timetable/weekly/pageconfig?type=1"
-  res = session.get(init_url)
-  data = res.json()
-  elements = data.get("data", {}).get("elements", [])
+  res = session.get(init_url).json()
+  elements = res.get("data", {}).get("elements", [])
   for el in elements:
     name = el.get("name", "")
     display_name = el.get("displayname", "")
@@ -29,21 +28,7 @@ def get_class_id():
     ):
       print(f"Gefunden: {name} (ID: {el.get('id')})")
       return el.get("id")
-  raise ValueError(
-      f"Studiengang mit '{TARGET_NAME}' in WebUntis nicht gefunden!"
-  )
-
-
-def fetch_timetable(class_id, date_str):
-  url = f"{BASE_URL}/api/public/timetable/weekly/data"
-  params = {
-      "elementType": 1,
-      "elementId": class_id,
-      "date": date_str,
-      "formatId": 1,
-  }
-  res = session.get(url, params=params)
-  return res.json()
+  raise ValueError(f"Klasse {TARGET_NAME} nicht gefunden!")
 
 
 def parse_untis_time(date_int, time_int):
@@ -54,7 +39,7 @@ def parse_untis_time(date_int, time_int):
   return datetime.datetime(year, month, day, hour, minute)
 
 
-def build_calendar(class_id, weeks_ahead=16):
+def build_calendar(class_id, weeks_ahead=12):
   cal = Calendar()
   cal.add("prodid", "-//HS Albstadt DPM_1 AutoSync//DE")
   cal.add("version", "2.0")
@@ -63,66 +48,81 @@ def build_calendar(class_id, weeks_ahead=16):
 
   for w in range(weeks_ahead):
     current_date = today + datetime.timedelta(weeks=w)
-    date_str = current_date.strftime("%Y-%m-%d")
+    url = f"{BASE_URL}/api/public/timetable/weekly/data"
+    params = {
+        "elementType": 1,
+        "elementId": class_id,
+        "date": current_date.strftime("%Y-%m-%d"),
+        "formatId": 1,
+    }
+    data = session.get(url, params=params).json()
 
-    data = fetch_timetable(class_id, date_str)
-    elements = (
-        data.get("data", {})
-        .get("result", {})
-        .get("data", {})
-        .get("elementPeriods", {})
-    )
+    result = data.get("data", {}).get("result", {}).get("data", {})
 
-    periods = elements.get(str(class_id), [])
+    # Element-Lookup bauen (ID -> Name, Typ)
+    element_map = {}
+    for elem_list in result.get("elements", []):
+      elem_id = elem_list.get("id")
+      elem_name = (
+          elem_list.get("displayname")
+          or elem_list.get("name")
+          or elem_list.get("longName")
+      )
+      elem_type = elem_list.get("type")  # 3 = Fach, 4 = Raum, 2 = Dozent
+      if elem_id:
+        element_map[elem_id] = (elem_name, elem_type)
+
+    periods = result.get("elementPeriods", {}).get(str(class_id), [])
     for p in periods:
       event = Event()
-      elements_list = p.get("elements", [])
+      subjects, rooms, teachers = [], [], []
 
-      # Sauberes Auslesen ohne NoneType-Fehler
-      subjects = [
-          e.get("name") or e.get("displayname") or ""
-          for e in elements_list
-          if e.get("type") == 3
-      ]
-      rooms = [
-          e.get("name") or e.get("displayname") or ""
-          for e in elements_list
-          if e.get("type") == 4
-      ]
-      teachers = [
-          e.get("name") or e.get("displayname") or ""
-          for e in elements_list
-          if e.get("type") == 2
-      ]
+      for e in p.get("elements", []):
+        eid = e.get("id")
+        name = e.get("name") or e.get("displayname")
+        etype = e.get("type")
 
-      subject = ", ".join([s for s in subjects if s])
-      room = ", ".join([r for r in rooms if r])
-      teacher = ", ".join([t for t in teachers if t])
+        # Fallback auf Lookup-Map falls Name leer
+        if not name and eid in element_map:
+          name, etype = element_map[eid]
+
+        if name:
+          if etype == 3:
+            subjects.append(name)
+          elif etype == 4:
+            rooms.append(name)
+          elif etype == 2:
+            teachers.append(name)
+
+      fach = ", ".join(dict.fromkeys(subjects)) or "Vorlesung"
+      raum = ", ".join(dict.fromkeys(rooms))
+      dozent = ", ".join(dict.fromkeys(teachers))
+
+      is_cancelled = p.get("is", {}).get("cancelled", False)
+      title = f"[AUSFALL] {fach}" if is_cancelled else fach
+      if raum:
+        title += f" ({raum})"
 
       start_dt = parse_untis_time(p.get("date"), p.get("startTime"))
       end_dt = parse_untis_time(p.get("date"), p.get("endTime"))
 
-      title = subject if subject else "Vorlesung"
-      if p.get("is", {}).get("cancelled"):
-        title = f"[AUSFALL] {title}"
-
-      summary_text = f"{title} ({room})" if room else title
-      event.add("summary", summary_text)
+      event.add("summary", title)
       event.add("dtstart", start_dt)
       event.add("dtend", end_dt)
-      if room:
-        event.add("location", room)
+      if raum:
+        event.add("location", raum)
       event.add(
           "description",
-          f"Dozent: {teacher}\nStatus: {p.get('activityType', 'Vorlesung')}",
+          f"Fach: {fach}\nRaum: {raum}\nDozent: {dozent}\nStatus:"
+          f" {p.get('activityType', 'Vorlesung')}",
       )
       cal.add_component(event)
 
   with open("dpm_1_stundenplan.ics", "wb") as f:
     f.write(cal.to_ical())
-  print("FERTIG! 'dpm_1_stundenplan.ics' wurde erfolgreich erstellt.")
+  print("Erfolgreich generiert mit Fächern und Räumen!")
 
 
 if __name__ == "__main__":
   cid = get_class_id()
-  build_calendar(cid, weeks_ahead=16)
+  build_calendar(cid, weeks_ahead=12)
