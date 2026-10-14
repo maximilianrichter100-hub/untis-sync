@@ -1,0 +1,37 @@
+name: Untis Stundenplan Auto-Sync
+
+on:
+  schedule:
+    # Läuft jeden Morgen um 04:00 Uhr UTC (ca. 05:00 / 06:00 Uhr deutscher Zeit)
+    - cron: '0 4 * * *'
+  workflow_dispatch: # Ermöglicht es, den Ablauf jederzeit auch per Knopfdruck manuell zu starten
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Code auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Pakete installieren
+        run: |
+          pip install requests icalendar
+
+      - name: Stundenplan abrufen & ICS erstellen
+        run: |
+          python untis_sync.py
+
+      - name: Aktualisierte ICS-Datei ins Repository hochladen
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dpm_1_stundenplan.ics
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-Update Stundenplan" && git push)
