@@ -2,8 +2,8 @@ name: Untis Stundenplan Auto-Sync
 
 on:
   schedule:
-    # Läuft jeden Morgen um 04:00 Uhr UTC (ca. 05:00 / 06:00 Uhr deutscher Zeit)
-    - cron: '0 4 * * *'
+    # Läuft alle 6 Stunden (z. B. 00:00, 06:00, 12:00, 18:00 Uhr UTC)
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Ermöglicht es, den Ablauf jederzeit auch per Knopfdruck manuell zu starten
 
 permissions:
