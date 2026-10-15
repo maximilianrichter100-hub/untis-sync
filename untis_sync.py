@@ -37,7 +37,11 @@ def parse_untis_time(date_int, time_int):
     year, month, day = int(d_str[:4]), int(d_str[4:6]), int(d_str[6:])
     t_str = str(time_int).zfill(4)
     hour, minute = int(t_str[:2]), int(t_str[2:])
-    return datetime.datetime(year, month, day, hour, minute, tzinfo=ZoneInfo("Europe/Berlin"))
+    
+    # 1. Lokale Zeit in Berlin definieren
+    local_dt = datetime.datetime(year, month, day, hour, minute, tzinfo=ZoneInfo("Europe/Berlin"))
+    # 2. In echtes UTC umwandeln (damit Google Kalender es weltweit 100% fehlerfrei kapiert)
+    return local_dt.astimezone(datetime.timezone.utc)
 
 
 def build_calendar(class_id, weeks_ahead=12):
